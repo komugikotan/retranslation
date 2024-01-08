@@ -1,0 +1,7 @@
+name: retranslation
+version: '${project.version}'
+main: me.komugino.retranslation.Retranslation
+api-version: '1.18'
+
+commands:
+  retranslate:
