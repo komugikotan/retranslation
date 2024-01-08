@@ -2,7 +2,9 @@
 
 ## Overview
 
-The `Retranslation` plugin is a Spigot plugin for Minecraft that translates player chat messages using an external web API. It supports language translation between various languages. Inspired by Japanese Youtuber KUNの五十人クラフト. (https://www.youtube.com/watch?v=ejizZhoQfyY)
+The `Retranslation` plugin is a **JOKE** Spigot plugin for Minecraft that translates player chat messages using an external web API. It supports language translation between various languages. Inspired by Japanese Youtuber KUNの五十人クラフト. (https://www.youtube.com/watch?v=ejizZhoQfyY)
+
+***THIS PLUGIN IS JOKE PLUGIN***
 
 ## Plugin Features
 
