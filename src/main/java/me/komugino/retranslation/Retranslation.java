@@ -33,7 +33,7 @@ public final class Retranslation extends JavaPlugin implements Listener {
             getConfig().set("enabled", 0);
             getConfig().set("lang_from", "en");
             getConfig().set("lang_to", "ja");
-            getConfig().set("api_url", "https://script.google.com/macros/s/AKfycbybhp3Vodn6RvaVCT0HkE8y0ZCs8i5sKhj53JoyKS6628W4Q1jxYvgIUFu7FTKgGmeg/exec?text=");
+            getConfig().set("api_url", "PUT API KEY HERE");
         }
 
         getServer().getPluginManager().registerEvents(this, this);
